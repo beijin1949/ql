@@ -1,3 +1,6 @@
+/*
+ * 
+ */
 module.exports = {
     // 基础配置
     base: {
